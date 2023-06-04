@@ -1,0 +1,7 @@
+5+9;
+a=2
+v=1;
+workspace
+clean v
+workspace
+r=4;

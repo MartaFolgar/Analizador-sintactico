@@ -1,0 +1,15 @@
+3+2;
+a=7
+v=8;
+workspace
+clean v
+workspace
+load prueba2.txt
+f=3-2;
+workspace
+f=PI;
+workspace
+clean a
+workspace
+inverso(8);
+functions
